@@ -16,5 +16,6 @@ This project is a data warehouse implementation for the Northwind database. It i
 ![Logical](https://github.com/user-attachments/assets/828bf910-ae4f-4c30-8c42-b364e8fe5ac2)
 
 ## Physical Data Model
-![Uploading Physical.jpg…]()
+![Physical](https://github.com/user-attachments/assets/abb521c1-5c05-40f4-8e5b-9649a0f72cca)
+
 
