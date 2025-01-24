@@ -8,4 +8,13 @@ This project is a data warehouse implementation for the Northwind database. It i
 - **Star Schema**: Designed for efficient querying and analysis.
 - **SQL Scripts**: Includes queries for reporting and analytics.
 
-## Project Structure
+# Data Models
+## Conceptual Data Model
+![Conceptual](https://github.com/user-attachments/assets/772f160d-4399-4e74-ace4-78d30ef27301)
+
+## Logical Data Model
+![Logical](https://github.com/user-attachments/assets/828bf910-ae4f-4c30-8c42-b364e8fe5ac2)
+
+## Physical Data Model
+![Uploading Physical.jpg…]()
+
